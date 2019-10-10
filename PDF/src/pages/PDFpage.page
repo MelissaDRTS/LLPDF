@@ -1,0 +1,6 @@
+
+
+<apex:page controller="DownloadPDF" renderAs="pdf">
+    <p>Testing</p>
+    <iframe src="data:application/text,{!match1}" height="100%" width="100%"></iframe>
+</apex:page>

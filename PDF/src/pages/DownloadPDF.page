@@ -1,0 +1,22 @@
+
+<!--<apex:page controller="DownloadPDF" >-->
+<!--    <script>-->
+<!--        window.location.href = "data:application/pdf;base64,{!pdf}"; // switch between match1,match2-->
+<!--    </script>-->
+<!--<apex:page controller="DownloadPDF">-->
+<!--    <img src="data:application/pdf;base64,{!pdf}"/>-->
+
+<!--</apex:page>-->
+
+<apex:page controller="DownloadPDF" cache="true">
+
+<img src="data:application/pdf;base64,{!pdf}" />
+<!--    <a href="https://data:application/pdf;base64,{!pdf}"><div>Test</div></a>-->
+</apex:page>
+
+
+<!--<apex:page controller="DownloadPDF" sidebar="false" showHeader="false" contentType="application/pdf">-->
+<!--    <script>-->
+<!--        window.location.href = "data:application/pdf;base64,{!pdf}"; // switch between match1,match2-->
+<!--    </script>-->
+<!--</apex:page>-->
