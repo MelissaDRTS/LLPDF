@@ -366,6 +366,12 @@
                       <option name="entries">
                         <list>
                           <MetadataEntry>
+                            <option name="name" value="forgotPassword" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="loginForm" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="RTS_Portal_AddUser_Cmp" />
                           </MetadataEntry>
                           <MetadataEntry>
@@ -388,12 +394,6 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="RTS_Portal_ServiceRequestDocumentUpload_Cmp" />
-                          </MetadataEntry>
-                          <MetadataEntry>
-                            <option name="name" value="forgotPassword" />
-                          </MetadataEntry>
-                          <MetadataEntry>
-                            <option name="name" value="loginForm" />
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="selfRegister" />
