@@ -59,6 +59,10 @@
                             <option name="name" value="CommunitiesSelfRegControllerTest" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="CreateAttachment" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="DocumentService" />
                           </MetadataEntry>
                           <MetadataEntry>
